@@ -93,6 +93,3 @@ window.addEventListener('online', uploadPizza);
 
 
 
-//<script src="./assets/js/add-pizza.js"></script>
-//<!-- add this into add-pizza.html -->
-//<script src="./assets/js/idb.js"></script>
